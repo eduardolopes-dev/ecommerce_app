@@ -26,7 +26,7 @@ class TCheckboxTheme {
   );
 
   // Dark Theme Checkbox
- static final darktCheckboxTheme = CheckboxThemeData(
+ static final darkCheckboxTheme = CheckboxThemeData(
     shape: RoundedRectangleBorder(
       borderRadius: BorderRadius.circular(4.0),
     ),
